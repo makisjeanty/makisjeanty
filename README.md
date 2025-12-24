@@ -27,6 +27,6 @@ Construo sistemas práticos, rápidos e escaláveis usando **PHP, Laravel, Filam
 📌 Projetos em destaque
 - 🔹 API base em Laravel (autenticação, roles, Docker)
 - 🔹 Starter de admin com Filament
-- 🔹 Scripts de automação em Python
+- 🔹 [Scripts de automação em Python](https://github.com/makisjeanty/python-automations) - File management, API consumption, automated reporting
 - 🔹 Plataforma EAD (MVP)
 
