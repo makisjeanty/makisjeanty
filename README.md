@@ -1,16 +1,31 @@
-## Hi there 👋
+ 👋 Olá, eu sou Makis
 
-<!--
-**makisjeanty/makisjeanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pronomes:** ele/dele  
 
-Here are some ideas to get you started:
+Desenvolvedor com foco em backend e automações.  
+Construo sistemas práticos, rápidos e escaláveis usando **PHP, Laravel, Filament e Python** em **Linux (Ubuntu)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Com o que eu trabalho
+- Sistemas backend e APIs REST
+- Painéis administrativos com Laravel + Filament
+- Automações e scripts com Python
+- Ambientes Dockerizados
+- Plataformas de e-learning (EAD) e MVPs
+
+🚀 No que eu me concentro
+- Arquitetura limpa
+- Desempenho e escalabilidade
+- Código pronto para produção
+- Sistemas pensados para SaaS e automação
+
+🧠 Stack
+- **Backend:** PHP, Laravel, Filament, Python  
+- **Banco de dados:** MySQL, PostgreSQL  
+- **DevOps:** Docker, Linux (Ubuntu)  
+- **Outros:** APIs REST, Autenticação, RBAC, Automação
+
+📌 Projetos em destaque
+- 🔹 API base em Laravel (autenticação, roles, Docker)
+- 🔹 Starter de admin com Filament
+- 🔹 Scripts de automação em Python
+- 🔹 Plataforma EAD (MVP)
