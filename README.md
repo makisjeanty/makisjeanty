@@ -1,4 +1,4 @@
- 👋 Olá, eu sou Makis
+👋 Olá, eu sou Makis
 
 **Pronomes:** ele/dele  
 
@@ -9,7 +9,7 @@ Construo sistemas práticos, rápidos e escaláveis usando **PHP, Laravel, Filam
 - Sistemas backend e APIs REST
 - Painéis administrativos com Laravel + Filament
 - Automações e scripts com Python
-- Ambientes Dockerizados
+- Ambientes dockerizados
 - Plataformas de e-learning (EAD) e MVPs
 
 🚀 No que eu me concentro
@@ -29,3 +29,4 @@ Construo sistemas práticos, rápidos e escaláveis usando **PHP, Laravel, Filam
 - 🔹 Starter de admin com Filament
 - 🔹 Scripts de automação em Python
 - 🔹 Plataforma EAD (MVP)
+
