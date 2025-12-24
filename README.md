@@ -26,7 +26,7 @@ Construo sistemas práticos, rápidos e escaláveis usando **PHP, Laravel, Filam
 
 📌 Projetos em destaque
 - 🔹 API base em Laravel (autenticação, roles, Docker)
-- 🔹 Starter de admin com Filament
+- 🔹 [Filament Admin Starter](https://github.com/makisjeanty/filament-admin-starter) - Laravel 11 + Filament 3 admin panel with RBAC, file uploads, Docker
 - 🔹 [Scripts de automação em Python](https://github.com/makisjeanty/python-automations) - File management, API consumption, automated reporting
 - 🔹 Plataforma EAD (MVP)
 
